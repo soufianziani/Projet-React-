@@ -1,0 +1,210 @@
+{
+  "users": [
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "123123",
+      "id": 1
+    },
+    {
+      "name": "oussama",
+      "email": "oussama123@gmail.com",
+      "password": "123123",
+      "id": 2
+    },
+    {
+      "name": "ytshgs",
+      "email": "soufianeziani@gmail.com",
+      "id": "soufianeziani@gmail.com",
+      "password": "soufianeziani@gmail.com"
+    },
+    {
+      "name": "soufiane",
+      "email": "ziani@gmail.com",
+      "id": "ziani@gmail.com",
+      "password": "123"
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "rname": "Massala Theoryy",
+      "imgdata": "https://w0.peakpx.com/wallpaper/790/477/HD-wallpaper-croissant-crispy-food-bun.jpg",
+      "address": "North Indian, Biryani, Mughlai",
+      "delimg": "https://w0.peakpx.com/wallpaper/790/477/HD-wallpaper-croissant-crispy-food-bun.jpg",
+      "somedata": " 1175 + order placed from here recently",
+      "price": 3,
+      " rating": "3.8",
+      "arrimg": "https://w0.peakpx.com/wallpaper/790/477/HD-wallpaper-croissant-crispy-food-bun.jpg",
+      " qnty": 0
+    },
+    {
+      "id": 2,
+      "rname": "Jugaadi Adda",
+      "imgdata": "https://insanelygoodrecipes.com/wp-content/uploads/2020/09/Croissant-Fillings-1.jpg",
+      "address": "Street Food",
+      "delimg": "https://insanelygoodrecipes.com/wp-content/uploads/2020/09/Croissant-Fillings-1.jpg",
+      "somedata": " 2525 + order placed from here recently",
+      "price": 7,
+      " rating": "3.9",
+      "arrimg": "https://insanelygoodrecipes.com/wp-content/uploads/2020/09/Croissant-Fillings-1.jpg",
+      " qnty": 0
+    },
+    {
+      "id": 3,
+      "rname": "La Milano Pizzeria",
+      "imgdata": "https://i.pinimg.com/736x/19/3f/bf/193fbf4408f357f5a4d38d6d141683bd.jpg",
+      "address": "Pizza, Fast Food, Pasta",
+      "delimg": "https://i.pinimg.com/736x/19/3f/bf/193fbf4408f357f5a4d38d6d141683bd.jpg",
+      "somedata": " 650 + order placed from here recently",
+      "price": 37,
+      " rating": "4.2",
+      "arrimg": "https://i.pinimg.com/736x/19/3f/bf/193fbf4408f357f5a4d38d6d141683bd.jpg",
+      " qnty": 0
+    },
+    {
+      "id": 4,
+      "rname": "Momoman",
+      "imgdata": "https://i.pinimg.com/474x/9b/47/61/9b4761b90fca0d7163fdf3e21d62e660.jpg",
+      "address": "Momos",
+      "delimg": "https://i.pinimg.com/474x/9b/47/61/9b4761b90fca0d7163fdf3e21d62e660.jpg",
+      "somedata": " 300 + order placed from here recently",
+      "price": 10,
+      " rating": "3.8",
+      "arrimg": "https://i.pinimg.com/474x/9b/47/61/9b4761b90fca0d7163fdf3e21d62e660.jpg",
+      " qnty": 0
+    },
+    {
+      "id": 5,
+      "rname": "Jassi De Parathe",
+      "imgdata": "https://i.pinimg.com/474x/ec/47/fe/ec47fe400a322e0055da9efa60aab9fc.jpg",
+      "address": "North Indian",
+      "delimg": "https://i.pinimg.com/474x/ec/47/fe/ec47fe400a322e0055da9efa60aab9fc.jpg",
+      "somedata": "1050 + order placed from here recently",
+      "price": 10,
+      " rating": "4.0",
+      "arrimg": "https://i.pinimg.com/474x/ec/47/fe/ec47fe400a322e0055da9efa60aab9fc.jpg",
+      " qnty": 0
+    },
+    {
+      "id": 6,
+      "rname": "Anjoy Latenight Meals",
+      "imgdata": "https://i.pinimg.com/474x/0f/29/98/0f2998b75dbb12af10ec13c9417c473c.jpg",
+      "address": "Wraps FastFood, Chines",
+      "delimg": "https://i.pinimg.com/474x/0f/29/98/0f2998b75dbb12af10ec13c9417c473c.jpg",
+      "somedata": " 1100 + order placed from here recently",
+      "price": 11,
+      " rating": "3.8",
+      "arrimg": "https://i.pinimg.com/474x/0f/29/98/0f2998b75dbb12af10ec13c9417c473c.jpg",
+      " qnty": 0
+    },
+    {
+      "id": 7,
+      "rname": "Chai Wai",
+      "imgdata": "https://i.pinimg.com/474x/f5/6d/87/f56d87d120686c02765b8d1529e5ad4f.jpg",
+      "address": "Tea, Coffee, Shake, Beverages",
+      "delimg": "https://i.pinimg.com/474x/f5/6d/87/f56d87d120686c02765b8d1529e5ad4f.jpg",
+      "somedata": "500 + order placed from here recently",
+      "price": 21,
+      " rating": "3.2",
+      "arrimg": "https://i.pinimg.com/474x/f5/6d/87/f56d87d120686c02765b8d1529e5ad4f.jpg",
+      " qnty": 0
+    },
+    {
+      "id": 8,
+      "rname": "Hocco Eatery",
+      "imgdata": "https://i.pinimg.com/474x/46/40/e6/4640e67ee85abef8b7acbe14b002115b.jpg",
+      "address": "North Indian, Fast Food",
+      "delimg": "https://i.pinimg.com/474x/46/40/e6/4640e67ee85abef8b7acbe14b002115b.jpg",
+      "somedata": "500 + order placed from here recently",
+      "price": 23,
+      " rating": "3.8",
+      "arrimg": "https://i.pinimg.com/474x/46/40/e6/4640e67ee85abef8b7acbe14b002115b.jpg",
+      " qnty": 0
+    },
+    {
+      "id": 9,
+      "rname": "HL Frankie",
+      "imgdata": "https://i.pinimg.com/474x/f1/43/ba/f143ba141c052b072b4cbb393b14e316.jpg",
+      "address": "Burger, Sandwich, Fast Food",
+      "delimg": "https://i.pinimg.com/474x/f1/43/ba/f143ba141c052b072b4cbb393b14e316.jpg",
+      "somedata": "2525 + order placed from here recently",
+      "price": 21,
+      " rating": "3.8",
+      "arrimg": "https://i.pinimg.com/474x/f1/43/ba/f143ba141c052b072b4cbb393b14e316.jpg",
+      " qnty": 0
+    },
+    {
+      "id": 10,
+      "rname": "HL Frankie",
+      "imgdata": "https://www.patisserielavilla.com/wp-content/uploads/2021/02/Plateau-Beldi-Prestige2-300x234.png",
+      "address": "Burger, Sandwich, Fast Food",
+      "delimg": "https://www.patisserielavilla.com/wp-content/uploads/2021/02/Plateau-Beldi-Prestige2-300x234.png",
+      "somedata": "2525 + order placed from here recently",
+      "price": 100,
+      " rating": "3.8",
+      "arrimg": "https://www.patisserielavilla.com/wp-content/uploads/2021/02/Plateau-Beldi-Prestige2-300x234.png",
+      " qnty": 0
+    },
+    {
+      "id": 11,
+      "rname": "HL Frankie",
+      "imgdata": "https://www.patisserielavilla.com/wp-content/uploads/2021/02/Plateau-Beldi-Prestige.4-300x221.png",
+      "address": "Burger, Sandwich, Fast Food",
+      "delimg": "https://www.patisserielavilla.com/wp-content/uploads/2021/02/Plateau-Beldi-Prestige.4-300x221.png",
+      "somedata": "2525 + order placed from here recently",
+      "price": 100,
+      " rating": "3.8",
+      "arrimg": "https://www.patisserielavilla.com/wp-content/uploads/2021/02/Plateau-Beldi-Prestige.4-300x221.png",
+      " qnty": 0
+    },
+    {
+      "id": 12,
+      "rname": "HL Frankie",
+      "imgdata": "https://www.patisserielavilla.com/wp-content/uploads/2021/02/Plateau-Beldi-Prestige-0-1-300x230.png",
+      "address": "Burger, Sandwich, Fast Food",
+      "delimg": "https://www.patisserielavilla.com/wp-content/uploads/2021/02/Plateau-Beldi-Prestige-0-1-300x230.png",
+      "somedata": "2525 + order placed from here recently",
+      "price": 100,
+      " rating": "3.8",
+      "arrimg": "https://www.patisserielavilla.com/wp-content/uploads/2021/02/Plateau-Beldi-Prestige-0-1-300x230.png",
+      " qnty": 0
+    },
+    {
+      "id": 15,
+      "rname": "HL Frankie",
+      "imgdata": "https://i.pinimg.com/474x/e8/d4/10/e8d4109e06b913d8dd380d28257e679e.jpg",
+      "address": "Burger, Sandwich, Fast Food",
+      "delimg": "https://i.pinimg.com/474x/e8/d4/10/e8d4109e06b913d8dd380d28257e679e.jpg",
+      "somedata": "2525 + order placed from here recently",
+      "price": 100,
+      " rating": "3.8",
+      "arrimg": "https://i.pinimg.com/474x/e8/d4/10/e8d4109e06b913d8dd380d28257e679e.jpg",
+      " qnty": 0
+    },
+    {
+      "id": 14,
+      "rname": "HL Frankie",
+      "imgdata": "https://i.pinimg.com/474x/65/67/15/656715934ae730f2ea7d42a501a1da6a.jpg",
+      "address": "Burger, Sandwich, Fast Food",
+      "delimg": "https://i.pinimg.com/474x/65/67/15/656715934ae730f2ea7d42a501a1da6a.jpg",
+      "somedata": "2525 + order placed from here recently",
+      "price": 100,
+      " rating": "3.8",
+      "arrimg": "https://i.pinimg.com/474x/65/67/15/656715934ae730f2ea7d42a501a1da6a.jpg",
+      " qnty": 0
+    },
+    {
+      "id": 15,
+      "rname": "HL Frankie",
+      "imgdata": "https://i.pinimg.com/736x/32/8d/be/328dbe6d872933093eb04744c19d110e.jpg",
+      "address": "Burger, Sandwich, Fast Food",
+      "delimg": "https://i.pinimg.com/736x/32/8d/be/328dbe6d872933093eb04744c19d110e.jpg",
+      "somedata": "2525 + order placed from here recently",
+      "price": 100,
+      " rating": "3.8",
+      "arrimg": "https://i.pinimg.com/736x/32/8d/be/328dbe6d872933093eb04744c19d110e.jpg",
+      " qnty": 0
+    }
+  ]
+}
